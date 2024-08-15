@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+
+
+.contenedor{ 
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     padding: 2rem 0;
+    
+   
+} 
+
+.palabron{ 
+    font-size: 3rem;
+    color: hsla(251, 100%, 28%, 0.699);
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: auto;
+    text-align: center;
+
+} 
+
+#startButton{
+    
+    padding: 8px 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: hsl(240, 69%, 55%);
+    color: #ffff;
+    font-size: 1.7rem;
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
